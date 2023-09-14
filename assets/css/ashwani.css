@@ -1,0 +1,30 @@
+/* icons */
+.custom-github:hover {
+  content: url("../imgs/icons/github/github-mark\ -\ red.png");
+  width: 28;
+}
+
+.custom-linkedin:hover {
+  content: url("../imgs/icons/linkedin/icons8-linkedin-red.png");
+}
+
+.custom-email:hover {
+  content: url("../imgs/icons/email/icons8-email-red.png");
+  width: 28;
+}
+
+
+/* store link */
+.store-link {
+  display: inline;
+  text-decoration: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 13px;
+  position: relative;
+  top: 1px;
+  i {
+    position: relative;
+    top: 1px;				
+  }
+}
